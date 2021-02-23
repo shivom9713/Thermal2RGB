@@ -1,5 +1,6 @@
-# Thermal2RGB (Borrows heavily from TIC-CGAN)
+# Thermal2RGB 
 - PyTorch implementation
+- (Borrows heavily from TIC-CGAN)
 
 ## Prerequisites
 - Linux or macOS
