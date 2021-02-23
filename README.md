@@ -1,4 +1,4 @@
-# TICCGAN
+# Thermal2RGB (Borrows heavily from TIC-CGAN)
 - PyTorch implementation
 
 ## Prerequisites
