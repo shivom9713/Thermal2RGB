@@ -30,7 +30,7 @@ python test.py --dataroot datasets/ --name IC_gll_v36 --phase test
 The test results will be saved to here: `./results/`.
 
 ## Acknowledgments
-This code borrows heavily from [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
+This code borrows heavily from https://github.com/Kuangxd/TICCGAN and [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
 ## Contact with me
 If you have any questions, please contact 
