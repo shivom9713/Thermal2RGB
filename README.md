@@ -47,4 +47,4 @@ https://colab.research.google.com/drive/1LE4HlIKfHRA9c8DriD2M9JOuTlGq6UgF?usp=sh
 ![Generated Fake Image](https://user-images.githubusercontent.com/56249279/108854310-b9df3e80-760d-11eb-9dd5-a9bea140a60b.png)
 ![Infrared Input](https://user-images.githubusercontent.com/56249279/108854316-bb106b80-760d-11eb-8bae-41e114b5fa59.png)
 ![Ground Truth](https://user-images.githubusercontent.com/56249279/108854321-bba90200-760d-11eb-8570-57f5612e0d7b.png))
-Thanks
+-Fake Image  Infrared Input  Ground Truth
