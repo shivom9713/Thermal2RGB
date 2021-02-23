@@ -26,4 +26,5 @@ The test results will be saved to here: `./results/`.
 This code borrows heavily from [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
 
 ## Contact with me
-If you have any questions, please contact with me. (1007642157@qq.com)
+If you have any questions, please contact 
+with me. (shivom9713@gmail.com)
