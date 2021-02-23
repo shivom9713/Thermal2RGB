@@ -41,10 +41,5 @@ This is the link for my google colab Script if you want to check that out
 https://colab.research.google.com/drive/1LE4HlIKfHRA9c8DriD2M9JOuTlGq6UgF?usp=sharing
 
 ## Results
-![](https://user-images.githubusercontent.com/56249279/108854293-b64bb780-760d-11eb-9864-7d7195b8a652.png)
-![](https://user-images.githubusercontent.com/56249279/108854303-b8ae1180-760d-11eb-9f67-ca0c1b6ae7e4.png)
-![](https://user-images.githubusercontent.com/56249279/108854307-b946a800-760d-11eb-9dc1-3ddce6ff7e23.png)
-![Generated Fake Image](https://user-images.githubusercontent.com/56249279/108854310-b9df3e80-760d-11eb-9dd5-a9bea140a60b.png)
-![Infrared Input](https://user-images.githubusercontent.com/56249279/108854316-bb106b80-760d-11eb-8bae-41e114b5fa59.png)
-![Ground Truth](https://user-images.githubusercontent.com/56249279/108854321-bba90200-760d-11eb-8570-57f5612e0d7b.png))
-- Fake Image                  Infrared Input                        Ground Truth
+![gitff](https://user-images.githubusercontent.com/56249279/108856964-9bc70d80-7610-11eb-9339-6e21ad66eb0f.PNG)
+
