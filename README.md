@@ -1,6 +1,7 @@
 # Thermal2RGB 
 - PyTorch implementation
 - Borrows heavily from TIC-CGAN
+- Dataset Used : KAIST MultiSpectral Dataset
 
 ## Prerequisites
 - Linux or macOS
