@@ -34,4 +34,6 @@ with me. (shivom9713@gmail.com)
 This is the link for my google colab Script if you want to check that out
 https://colab.research.google.com/drive/1LE4HlIKfHRA9c8DriD2M9JOuTlGq6UgF?usp=sharing
 
+## Results
+![Infrared Input](http://url/to/img.png)
 Thanks
