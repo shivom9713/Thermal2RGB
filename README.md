@@ -25,8 +25,8 @@ The test results will be saved to here: `./results/`.
 ## Acknowledgments
 This code borrows heavily from https://github.com/Kuangxd/TICCGAN and [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
-## Contact with me
-If you have any questions, please contact with me (shivom9713@gmail.com)
+## Contact me
+If you have any questions, please write an issue or contact me at shivom9713@gmail.com
 
 ## Google Colab Script
 This is the link for my google colab Script if you want to check that out
