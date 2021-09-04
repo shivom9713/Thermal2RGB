@@ -30,7 +30,7 @@ If you have any questions, please write an issue or contact me at shivom9713@gma
 
 ## Google Colab Script
 This is the link for my google colab Script if you want to check that out
-https://drive.google.com/file/d/1H8C6GYQSPISB31hy_z0QDhMvZbpfw1H-/view?usp=sharing
+https://colab.research.google.com/drive/1LE4HlIKfHRA9c8DriD2M9JOuTlGq6UgF?usp=sharing
 
 ## Results
 ![gitff](https://user-images.githubusercontent.com/56249279/108856964-9bc70d80-7610-11eb-9339-6e21ad66eb0f.PNG)
