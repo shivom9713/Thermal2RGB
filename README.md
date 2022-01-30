@@ -44,5 +44,5 @@ https://colab.research.google.com/drive/1LE4HlIKfHRA9c8DriD2M9JOuTlGq6UgF?usp=sh
 # Good light Night-time performance Results using our proposed approaches
 ![Model Performance](https://user-images.githubusercontent.com/56249279/151710333-58385456-3d02-48ee-838b-06ecbb8f27b8.PNG)
 
-
+# Research done for Night to day translation improvement is under process of publication, paper will be shared as soon as it gets published
 
