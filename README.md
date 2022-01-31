@@ -41,6 +41,7 @@ https://colab.research.google.com/drive/1LE4HlIKfHRA9c8DriD2M9JOuTlGq6UgF?usp=sh
 # Extreme Low light Night-time Performance Results using our proposed approaches 
 ![Night time performance](https://user-images.githubusercontent.com/56249279/151710411-b114eae3-725e-4064-8473-b6194029c77d.PNG)
 
+Proposed Approach-3 gives the best results
 
 # Research done for Night-infrared to day RGB translation improvement is under process of publication, paper will be shared as soon as it gets published
 
