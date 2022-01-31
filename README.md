@@ -33,11 +33,11 @@ This is the link for my google colab Script if you want to check that out
 https://colab.research.google.com/drive/1LE4HlIKfHRA9c8DriD2M9JOuTlGq6UgF?usp=sharing
 
 ### Results 
-## Day-time infrared to day-time RGB translation)
+## Day-time infrared to day-time RGB translation
 # Results of TIC-GAN 
 ![gitff](https://user-images.githubusercontent.com/56249279/108856964-9bc70d80-7610-11eb-9339-6e21ad66eb0f.PNG)
 
-## Night-time infrared to day-RGB translation results
+## YOLOv5 Object detection on night-time infrared to day-time translation results
 # Extreme Low light Night-time Performance Results using our proposed approaches 
 ![Night time performance](https://user-images.githubusercontent.com/56249279/151710411-b114eae3-725e-4064-8473-b6194029c77d.PNG)
 
