@@ -37,12 +37,10 @@ https://colab.research.google.com/drive/1LE4HlIKfHRA9c8DriD2M9JOuTlGq6UgF?usp=sh
 # Results of TIC-GAN 
 ![gitff](https://user-images.githubusercontent.com/56249279/108856964-9bc70d80-7610-11eb-9339-6e21ad66eb0f.PNG)
 
-## YOLOv5 Object detection on night-time infrared to day-time translation results
+## YOLOv5 Object detection on night-time infrared to day-time RGB translation results
 # Extreme Low light Night-time Performance Results using our proposed approaches 
 ![Night time performance](https://user-images.githubusercontent.com/56249279/151710411-b114eae3-725e-4064-8473-b6194029c77d.PNG)
 
-# Good light Night-time performance Results using our proposed approaches
-![Model Performance](https://user-images.githubusercontent.com/56249279/151710333-58385456-3d02-48ee-838b-06ecbb8f27b8.PNG)
 
-# Research done for Night to day translation improvement is under process of publication, paper will be shared as soon as it gets published
+# Research done for Night-infrared to day RGB translation improvement is under process of publication, paper will be shared as soon as it gets published
 
